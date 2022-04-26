@@ -1,0 +1,11 @@
+NACA 6409 
+OPER
+Visc 100000
+PACC
+xfoil_runner/polar_file.txt
+
+ITER 250
+ASeq 0 15 0.5
+
+
+QUIT
